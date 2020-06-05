@@ -1,0 +1,23 @@
+body{
+  margin:0;
+  }
+.menu{
+  background-color:green;
+  overflow:hidden;;
+  
+  }
+.menu a{
+  float:left;
+  text-align:center;
+  padding:12px 14px;
+  color:#f2f2f2;
+  text-decoration:none;
+  font-family: Roboto, sans-serif;
+  }
+.menu a.hover{
+  background-color:#ddd;
+  color: black;
+  }
+.menu a.active{
+  background-color:black;
+  }
