@@ -7,7 +7,7 @@ body{
   
   }
 .menu a{
-  /*float:left;*/
+  float:left;
   text-align:center;
   padding:12px 14px;
   color:#f2f2f2;
