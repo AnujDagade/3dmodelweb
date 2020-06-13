@@ -1,6 +1,6 @@
 body{
   margin:0;
-  background-color:black;
+  
   }
 .menu{
   background-color:green;
@@ -20,5 +20,5 @@ body{
   color: black;
   }
 .menu a.active{
-  background-color:black;
+  background-color:grey;
   }
