@@ -22,3 +22,5 @@ body{
 .menu a.active{
   background-color:grey;
   }
+.product img{
+  height:10px;}
